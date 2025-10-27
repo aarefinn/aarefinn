@@ -38,33 +38,6 @@
 
 ## 🏆 Notable Projects
 
-### WordPress Websites
-
-- **[Area71 Academy E-commerce Website](https://area71academy.com/):**
-  - Complete WordPress build for a training portal, supporting every client journey stage (UI/UX, e-commerce, secure comms, and live course management)
-  - Features: custom UI/UX, dynamic pricing, WooCommerce, live chat, student order tracking, CDN security, analytics, SEO, and robust admin dashboards
-  - Tech: WordPress, WooCommerce, Elementor, OceanWP, PHP, MySQL
-
-- **[Sell Quick Connecticut](http://sellquickconnecticut.com/test/):**
-  - Fully custom real estate site for lead generation, with branded UI, instant forms, listings, analytics, and performance hosting
-  - Features: search/forms, responsive UI, lead capture, analytics, SSL
-  - Tech: WordPress, Elementor, Bootstrap, PHP, MySQL
-
-- **[Synaptica.AI](https://synaptica.ai/):**
-  - AI annotation business site with super-fast, conversion-focused UX
-  - Features: dynamic sections, branded UI, lead forms, analytics, secure CDN, SEO, admin dashboards
-  - Tech: WordPress, Elementor, OceanWP, PHP, MySQL, Hostinger
-
-- **[GrowthX Management](https://growthxllc.com/):**
-  - Business consulting & marketing solution with responsive layout and analytics
-  - Features: dynamic content, lead forms, analytics, SEO, fast hosting
-  - Tech: WordPress, Elementor, RankMath, Hostinger
-
-- **[Harpgrowth Store](https://harpgrowth.com/):**
-  - E-commerce WooCommerce storefront for a marketing agency
-  - Features: category browsing, fast checkout, reviews, automation, analytics, robust security
-  - Tech: WordPress, WooCommerce, Elementor, OceanWP
-
 ### Web Apps, Laravel & PHP Projects
 
 - **[Area71 Academy Training Platform (Laravel)](https://github.com/aarefinn/Website_Laravel_Area71_EdTeche_Platform):**
@@ -97,6 +70,33 @@
 
 - **Internship (Sep–Dec 2024):**
   Built EdTech and business sites with Laravel & WordPress
+
+### WordPress Websites
+
+- **[Area71 Academy E-commerce Website](https://area71academy.com/):**
+  - Complete WordPress build for a training portal, supporting every client journey stage (UI/UX, e-commerce, secure comms, and live course management)
+  - Features: custom UI/UX, dynamic pricing, WooCommerce, live chat, student order tracking, CDN security, analytics, SEO, and robust admin dashboards
+  - Tech: WordPress, WooCommerce, Elementor, OceanWP, PHP, MySQL
+
+- **[Sell Quick Connecticut](http://sellquickconnecticut.com/test/):**
+  - Fully custom real estate site for lead generation, with branded UI, instant forms, listings, analytics, and performance hosting
+  - Features: search/forms, responsive UI, lead capture, analytics, SSL
+  - Tech: WordPress, Elementor, Bootstrap, PHP, MySQL
+
+- **[Synaptica.AI](https://synaptica.ai/):**
+  - AI annotation business site with super-fast, conversion-focused UX
+  - Features: dynamic sections, branded UI, lead forms, analytics, secure CDN, SEO, admin dashboards
+  - Tech: WordPress, Elementor, OceanWP, PHP, MySQL, Hostinger
+
+- **[GrowthX Management](https://growthxllc.com/):**
+  - Business consulting & marketing solution with responsive layout and analytics
+  - Features: dynamic content, lead forms, analytics, SEO, fast hosting
+  - Tech: WordPress, Elementor, RankMath, Hostinger
+
+- **[Harpgrowth Store](https://harpgrowth.com/):**
+  - E-commerce WooCommerce storefront for a marketing agency
+  - Features: category browsing, fast checkout, reviews, automation, analytics, robust security
+  - Tech: WordPress, WooCommerce, Elementor, OceanWP
 
 ---
 
