@@ -58,19 +58,6 @@
   - Flutter app for organizing, importing, and sharing recipes, using SQLite and modern UI themes
   - Tech: Flutter, Dart, SQLite
 
----
-
-## ⭐ Experience
-
-- **Web Development Executive @ Area71 Venture Ltd. (Jan–Sep 2025):**
-  Built/migrated SEO-optimized business sites; delivered AI, EdTech, and training platforms; improved performance and client satisfaction; led cross-functional teams
-
-- **Team Project Lead (Synaptica.AI, GrowthX):**
-  Delivered AI-powered web solutions; deployed key business platforms
-
-- **Internship (Sep–Dec 2024):**
-  Built EdTech and business sites with Laravel & WordPress
-
 ### WordPress Websites
 
 - **[Area71 Academy E-commerce Website](https://area71academy.com/):**
@@ -97,6 +84,19 @@
   - E-commerce WooCommerce storefront for a marketing agency
   - Features: category browsing, fast checkout, reviews, automation, analytics, robust security
   - Tech: WordPress, WooCommerce, Elementor, OceanWP
+
+---
+
+## ⭐ Experience
+
+- **Web Development Executive @ Area71 Venture Ltd. (Jan–Sep 2025):**
+  Built/migrated SEO-optimized business sites; delivered AI, EdTech, and training platforms; improved performance and client satisfaction; led cross-functional teams
+
+- **Team Project Lead (Synaptica.AI, GrowthX):**
+  Delivered AI-powered web solutions; deployed key business platforms
+
+- **Internship (Sep–Dec 2024):**
+  Built EdTech and business sites with Laravel & WordPress
 
 ---
 
