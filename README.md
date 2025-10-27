@@ -79,11 +79,5 @@
 
 ---
 
-## 📈 Stats
-
-![Arefin's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarefinn&show_icons=true&theme=dark)
-
----
-
 *Let's connect and build something impactful together!*
 
