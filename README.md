@@ -2,18 +2,17 @@
 
 🚀 Empowering innovation with code. Building scalable business solutions with a focus on quality, performance, and user experience.
 
-<!-- Portfolio -->
-<a href="https://syedarefin.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-</a>
-<!-- LinkedIn -->
-<a href="https://linkedin.com/in/syedshamsularefin" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<!-- GitHub -->
-<a href="https://github.com/aarefinn" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p align="left">
+  <a href="https://syedarefin.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/syedshamsularefin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/aarefinn" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -39,35 +38,64 @@
 
 ## 🏆 Notable Projects
 
-- **Area71 Academy**: Laravel/WordPress learning platform for FBA e-commerce  
-  [Live](https://area71academy.com) | Laravel 10, PHP 8.1, MySQL, Elementor Pro
+### WordPress Websites
 
-- **Synaptica AI**: AI data annotation agency website  
-  [Live](https://synaptica.ai) | WordPress + Custom Widgets
+- **[Area71 Academy E-commerce Website](https://area71academy.com/):**
+  - Complete WordPress build for a training portal, supporting every client journey stage (UI/UX, e-commerce, secure comms, and live course management)
+  - Features: custom UI/UX, dynamic pricing, WooCommerce, live chat, student order tracking, CDN security, analytics, SEO, and robust admin dashboards
+  - Tech: WordPress, WooCommerce, Elementor, OceanWP, PHP, MySQL
 
-- **GrowthX**: Global business website with advanced WordPress CMS  
-  [Live](https://growthxllc.com) | Elementor, WooCommerce
+- **[Sell Quick Connecticut](http://sellquickconnecticut.com/test/):**
+  - Fully custom real estate site for lead generation, with branded UI, instant forms, listings, analytics, and performance hosting
+  - Features: search/forms, responsive UI, lead capture, analytics, SSL
+  - Tech: WordPress, Elementor, Bootstrap, PHP, MySQL
 
-- **Food Recipe Desktop App**: C++ runner with Dart for offline search  
-  [GitHub](https://github.com/aarefinn/MobileApplication_Food_Recipe) | Flutter, C, Dart
+- **[Synaptica.AI](https://synaptica.ai/):**
+  - AI annotation business site with super-fast, conversion-focused UX
+  - Features: dynamic sections, branded UI, lead forms, analytics, secure CDN, SEO, admin dashboards
+  - Tech: WordPress, Elementor, OceanWP, PHP, MySQL, Hostinger
 
-- **Recipe Management Mobile App**  
-  [GitHub](https://github.com/aarefinn/MobileApplication_Recipe_Management) | Flutter, Dart
+- **[GrowthX Management](https://growthxllc.com/):**
+  - Business consulting & marketing solution with responsive layout and analytics
+  - Features: dynamic content, lead forms, analytics, SEO, fast hosting
+  - Tech: WordPress, Elementor, RankMath, Hostinger
 
-- **Webapp Restaurant**: Online menu, reservation, responsive UI  
-  [GitHub](https://github.com/aarefinn/Webapp_Restaurant) | PHP, HTML, CSS
+- **[Harpgrowth Store](https://harpgrowth.com/):**
+  - E-commerce WooCommerce storefront for a marketing agency
+  - Features: category browsing, fast checkout, reviews, automation, analytics, robust security
+  - Tech: WordPress, WooCommerce, Elementor, OceanWP
+
+### Web Apps, Laravel & PHP Projects
+
+- **[Area71 Academy Training Platform (Laravel)](https://github.com/aarefinn/Website_Laravel_Area71_EdTeche_Platform):**
+  - Laravel-powered EdTech platform (Amazon FBA Mastery) with multi-role dashboards, payments, modern UI
+  - Tech: Laravel 10, PHP 8.1+, MySQL, Blade, Bootstrap/Tailwind
+
+- **[Webapp Restaurant](https://github.com/aarefinn/Webapp_Restaurant):**
+  - Responsive, dynamic restaurant app (online menu & reservation)
+  - Tech: PHP, HTML5, CSS3
+
+### Desktop & Mobile Apps
+
+- **[Food Recipe – Windows Desktop App](https://github.com/aarefinn/MobileApplication_Food_Recipe):**
+  - Native C++ + Flutter recipe manager for Windows, featuring offline support and plugin integration
+  - Tech: C++, Flutter, Dart
+
+- **[Reciper – Mobile Recipe Management](https://github.com/aarefinn/MobileApplication_Recipe_Management):**
+  - Flutter app for organizing, importing, and sharing recipes, using SQLite and modern UI themes
+  - Tech: Flutter, Dart, SQLite
 
 ---
 
 ## ⭐ Experience
 
-- **Web Development Executive** @ Area71 Venture Ltd. (Jan–Sep 2025):  
-  Built and migrated SEO-optimized business sites; delivered AI, EdTech, and training platforms; improved performance and client satisfaction; led cross-functional teams
+- **Web Development Executive @ Area71 Venture Ltd. (Jan–Sep 2025):**
+  Built/migrated SEO-optimized business sites; delivered AI, EdTech, and training platforms; improved performance and client satisfaction; led cross-functional teams
 
-- **Team Project Lead** (Synaptica.AI, GrowthX):  
+- **Team Project Lead (Synaptica.AI, GrowthX):**
   Delivered AI-powered web solutions; deployed key business platforms
 
-- **Internship** (Sep–Dec 2024):  
+- **Internship (Sep–Dec 2024):**
   Built EdTech and business sites with Laravel & WordPress
 
 ---
@@ -89,4 +117,3 @@
 ---
 
 *Let's connect and build something impactful together!*
-
