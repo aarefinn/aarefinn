@@ -2,9 +2,9 @@
 
 🚀 Empowering innovation with code. Building scalable business solutions with a focus on quality, performance, and user experience.
 
-[![Portfolio](https://syedarefin.dev/)](https://syedarefin.dev/)  
-[![LinkedIn](https://linkedin.com/in/syedshamsularefin)](https://linkedin.com/in/syedshamsularefin)  
-[![GitHub](https://github.com/aarefinn)](https://github.com/aarefinn)
+[![Portfolio](https://img.icons8.com/ios-filled/25/portfolio.png)](https://syedarefin.dev/)
+[![LinkedIn](https://img.icons8.com/ios-filled/25/linkedin.png)](https://linkedin.com/in/syedshamsularefin)
+[![GitHub](https://img.icons8.com/ios-filled/25/github.png)](https://github.com/aarefinn)
 
 ---
 
