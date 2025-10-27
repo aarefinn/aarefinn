@@ -1,16 +1,14 @@
-## Hi there 👋
+# Syed Shamsul Arefin 👋
 
-<!--
-**aarefinn/aarefinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Completed BSc in CSE at Independent University Bangladesh  
+🌍 Dhaka, Bangladesh  
+🔗 [Website](https://syedarefin.dev/)
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- **MobileApplication_Food_Recipe:** Flutter Windows Desktop + Dart + C++
+- **Website_Laravel_Area71_EdTeche_Platform:** Area71 Academy – Laravel
+- _Other notable projects..._
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect
+- [Twitter](https://twitter.com/SyShamsulArefin)
+- [LinkedIn](https://linkedin.com/in/syedshamsularefin)
