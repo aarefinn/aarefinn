@@ -1,4 +1,4 @@
-# Hi, I'm Syed Shamsul Arefin 👋
+# Hi, Syed Shamsul Arefin 👋
 
 🚀 Empowering innovation with code. Building scalable business solutions with a focus on quality, performance, and user experience.
 
@@ -23,6 +23,7 @@
 - 1+ years of professional experience in WordPress, Laravel, and JavaScript
 - Agile, creative, bilingual (Bangla, English)
 - Currently: Learning advanced frontend (React.js), software quality assurance, and automation testing
+- **Project Coordinator at Prothoma Bangladesh (Freelance)** - Managing ProIT Digital operations as IT partner for web development & e-commerce solutions
 
 ---
 
@@ -38,14 +39,23 @@
 
 ## ⭐ Experience
 
+- **Project Coordinator (Prothoma Bangladesh / ProIT Digital, Ongoing):**
+  - Managing operations for ProIT Digital as IT partner
+  - Leading web development for multiple e-commerce projects
+  - Coordinating teams for client delivery & project execution
+
 - **Web Development Executive @ Area71 Venture Ltd. (Jan–Sep 2025):**
-  Built/migrated SEO-optimized business sites; delivered AI, EdTech, and training platforms; improved performance and client satisfaction; led cross-functional teams
+  - Built/migrated SEO-optimized business sites
+  - Delivered AI, EdTech, and training platforms
+  - Improved performance and client satisfaction
+  - Led cross-functional teams
 
 - **Team Project Lead (Synaptica.AI, GrowthX):**
-  Delivered AI-powered web solutions; deployed key business platforms
+  - Delivered AI-powered web solutions
+  - Deployed key business platforms
 
 - **Internship (Sep–Dec 2024):**
-  Built EdTech and business sites with Laravel & WordPress
+  - Built EdTech and business sites with Laravel & WordPress
 
 ---
 
@@ -54,49 +64,67 @@
 ### Web Apps, Laravel & PHP Projects
 
 - **[Area71 Academy Training Platform (Laravel)](https://github.com/aarefinn/Website_Laravel_Area71_EdTeche_Platform):**
-  - Laravel-powered EdTech platform (Amazon FBA Mastery) with multi-role dashboards, payments, modern UI
-  - Tech: Laravel 10, PHP 8.1+, MySQL, Blade, Bootstrap/Tailwind
+  - Laravel-powered EdTech platform (Amazon FBA Mastery)
+  - Multi-role dashboards, payments, modern UI
+  - **Tech:** Laravel 10, PHP 8.1+, MySQL, Blade, Bootstrap/Tailwind
 
 - **[Webapp Restaurant](https://github.com/aarefinn/Webapp_Restaurant):**
   - Responsive, dynamic restaurant app (online menu & reservation)
-  - Tech: PHP, HTML5, CSS3
+  - **Tech:** PHP, HTML5, CSS3
 
 ### Desktop & Mobile Apps
 
 - **[Food Recipe – Windows Desktop App](https://github.com/aarefinn/MobileApplication_Food_Recipe):**
-  - Native C++ + Flutter recipe manager for Windows, featuring offline support and plugin integration
-  - Tech: C++, Flutter, Dart
+  - Native C++ + Flutter recipe manager for Windows
+  - Offline support and plugin integration
+  - **Tech:** C++, Flutter, Dart
 
 - **[Reciper – Mobile Recipe Management](https://github.com/aarefinn/MobileApplication_Recipe_Management):**
-  - Flutter app for organizing, importing, and sharing recipes, using SQLite and modern UI themes
-  - Tech: Flutter, Dart, SQLite
+  - Flutter app for organizing, importing, and sharing recipes
+  - SQLite database, modern UI themes
+  - **Tech:** Flutter, Dart, SQLite
 
-### WordPress Websites
+### WordPress Websites (ProIT Digital / Prothoma Bangladesh & Official)
 
-- **[Area71 Academy E-commerce Website](https://area71academy.com/):**
-  - Complete WordPress build for a training portal, supporting every client journey stage (UI/UX, e-commerce, secure comms, and live course management)
-  - Features: custom UI/UX, dynamic pricing, WooCommerce, live chat, student order tracking, CDN security, analytics, SEO, and robust admin dashboards
-  - Tech: WordPress, WooCommerce, Elementor, OceanWP, PHP, MySQL
+- **[ProIT Digital](https://proit.digital/):**
+  - IT solutions platform (Web Design/Development, Software, Apps)
+  - Complete business solution with modern UI/UX
+
+- **[Whole Sale Icon](https://wholesaleicon.com/):**
+  - Wholesale catalog platform
+  - Product browsing, ready stock & pre-order system
+
+- **[ZivoLife](https://zivolife.com/):**
+  - Health-focused e-commerce platform
+  - Microalgae supplements & plant-based products
+
+- **[The Millionaire Mindset](https://themillionairemindset.online/):**
+  - Financial freedom & wealth mindset training platform
+  - Abundance strategies & personal development
+
+- **[Winning Wholesale](https://winningwholesale.xyz/):**
+  - Wholesale e-commerce marketplace
+  - Electronics, order tracking, sales management
+
+- **[Area71 Academy E-commerce](https://area71academy.com/):**
+  - Complete WordPress training portal
+  - **Tech:** WordPress, WooCommerce, Elementor, OceanWP
 
 - **[Sell Quick Connecticut](http://sellquickconnecticut.com/test/):**
-  - Fully custom real estate site for lead generation, with branded UI, instant forms, listings, analytics, and performance hosting
-  - Features: search/forms, responsive UI, lead capture, analytics, SSL
-  - Tech: WordPress, Elementor, Bootstrap, PHP, MySQL
+  - Real estate lead generation site
+  - **Tech:** WordPress, Elementor, Bootstrap
 
 - **[Synaptica.AI](https://synaptica.ai/):**
-  - AI annotation business site with super-fast, conversion-focused UX
-  - Features: dynamic sections, branded UI, lead forms, analytics, secure CDN, SEO, admin dashboards
-  - Tech: WordPress, Elementor, OceanWP, PHP, MySQL, Hostinger
+  - AI annotation business platform
+  - **Tech:** WordPress, Elementor, OceanWP, Hostinger
 
 - **[GrowthX Management](https://growthxllc.com/):**
-  - Business consulting & marketing solution with responsive layout and analytics
-  - Features: dynamic content, lead forms, analytics, SEO, fast hosting
-  - Tech: WordPress, Elementor, RankMath, Hostinger
+  - Business consulting & marketing solution
+  - **Tech:** WordPress, Elementor, RankMath
 
 - **[Harpgrowth Store](https://harpgrowth.com/):**
-  - E-commerce WooCommerce storefront for a marketing agency
-  - Features: category browsing, fast checkout, reviews, automation, analytics, robust security
-  - Tech: WordPress, WooCommerce, Elementor, OceanWP
+  - WooCommerce e-commerce storefront
+  - **Tech:** WordPress, WooCommerce, Elementor
 
 ---
 
@@ -112,7 +140,8 @@
 
 ## 🚴 Extracurriculars
 
-- Cycling Enthusiast, Bashundhara Cyclist Community — 100/150km endurance rides, health advocacy
+- Cycling Enthusiast, Bashundhara Cyclist Community
+- 100/150km endurance rides, health advocacy
 
 ---
 
