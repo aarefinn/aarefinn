@@ -87,7 +87,7 @@
 ### WordPress Websites (ProIT Digital / Prothoma Bangladesh & Official)
 
 - **[ProIT Digital](https://proit.digital/):**  
-  - Prothoma Bangladesh‑er IT partner website for training & business solutions  
+  - Prothoma Bangladesh‑IT partner website for training & business solutions  
   - Worked as project coordinator on site structure, content flow, and feature planning  
 
 - **[Whole Sale Icon](https://wholesaleicon.com/):**  
